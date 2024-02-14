@@ -11,4 +11,4 @@ Neste modulo vimos os fundamentos de banco de dados, aprendendo como manipular d
 
 * Banco - arquivo de banco de dados utilizado nos exercicios.
 
-* scripts exercicio-banco-de-dados: Contém os scripts Python com a resolução dos exercícios. Utilizando as bibliotecas SQLite3. 
+* scripts exercicio-banco-de-dados: Contém os scripts Python com a resolução dos exercícios. Utilizando a bibliotecas SQLite3. 
